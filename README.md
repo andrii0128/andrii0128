@@ -1,4 +1,4 @@
-👋 Hi, I’m Andrii Kostenko.
+👋 Hi!
 
 As a talented back-end developer with rich experience in ChatGPT, Chatbot, data scraping, machine learning & AI, and Stable Diffusion, I am devoted to crafting high-quality, efficient, and scalable solutions.
 
